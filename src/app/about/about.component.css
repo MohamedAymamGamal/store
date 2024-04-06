@@ -1,0 +1,53 @@
+.card-7 .card-7-section .row .col-12 h2{
+  position: relative;
+  font-family: 'Jost', sans-serif;
+  font-weight: bold;
+  color: rgb(55,81,126);
+  font-size: 32px;
+}
+.card-7 .card-7-section .row .col-12 h2:before{
+  content: "";
+  position: absolute;
+  bottom: 1px;
+  left: calc(50% - 50px);
+  width: 113px;
+  height: 2px;
+  background-color: rgb(221,221,221);
+}
+.card-7 .card-7-section .row .col-12 h2:after{
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 20px);
+  width: 50px;
+  height: 4px;
+  background-color:#9FA6B2;
+}
+
+.card-7 .card-7-section .row .col-12 p{
+  color:#9FA6B2;
+  font-family: sans-serif;
+  font-weight: 500;
+}
+.card-7 .card-7-section .row .row .col-md-6 img{
+  width: 100%;
+  height: 100%;
+}
+.card-7 .card-7-section .row .row .cad-6-form{
+  border-top: 3px solid #9FA6B2;
+  border-bottom: 3px solid #9FA6B2;
+  box-shadow: 0px 0px 20px rgba(32, 32, 32, 0.4);
+}
+.card-7 .card-7-section .row .row .col-md-6 form label{
+  display: block;
+}
+.card-7 .card-7-section .row .row .col-md-6 form button{
+  background-color: #9FA6B2;
+  color: white;
+  border-radius: 20px;
+  width: 33%;
+  padding: 10px 10px;
+}
+.card-7 {
+  margin-top: 90px;
+}

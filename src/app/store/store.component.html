@@ -1,0 +1,19 @@
+<app-navbar></app-navbar>
+<div class="container main ">
+  <div class="row d-flex justify-content-evenly py-5 " >
+    <div
+    *ngFor="let games of game"
+     class="card py-3 rounded-5 my-5 " data-aos="flip-left" style="width: 18rem;" >
+      <img class="rounded-5 img-fluid" src="{{games.image}}" alt="...">
+      <div class="card-body">
+        <p class="card-text text-center">{{games.name}}</p>
+      </div>
+      <div class="text-center">
+        <a routerLink="/productInfo/{{games.name}}" class="nav-link"><button class="btn btn-success col-6"> buy</button></a>
+      </div>
+    </div>
+
+
+  </div>
+</div>
+<app-footer></app-footer>

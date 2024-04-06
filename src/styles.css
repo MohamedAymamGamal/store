@@ -1,0 +1,19 @@
+:root{
+  --color1:#222831;
+  --color2:#31363F;
+  --color3:#76ABAE;
+  --color4:#EEEEEE;
+  --fontfamily1: adventureregular;
+}
+body{
+  background-color: var(--color2) !important;
+}
+h1, h2, h3, h4, h5{
+  color: var(--color3);
+}
+P{
+  color: var(--color4);
+}
+a{
+  font-family: var(--fontfamily1);
+}
