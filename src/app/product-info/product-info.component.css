@@ -1,0 +1,11 @@
+.s1{
+  margin-top: 90px !important;
+}
+h1{
+  font-family: var(--fontfamily1);
+  color: var(--color3);
+}
+p{
+  font-family: var(--fontfamily1);
+  color: var(--color3);
+}

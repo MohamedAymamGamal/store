@@ -1,0 +1,72 @@
+{
+  "admin": [
+    {
+      "name": "Ibrahim",
+      "email": "admin@admin.com",
+      "password": "123123",
+      "id": 1
+    },
+    {
+      "name": "h",
+      "email": "jkhk",
+      "password": "hjkhk",
+      "id": 2
+    },
+    {
+      "name": "asdasd",
+      "email": "gasdfads",
+      "password": "asda",
+      "id": 3
+    },
+    {
+      "name": "asdasd",
+      "email": "gasdfads",
+      "password": "asda",
+      "id": 4
+    }
+  ],
+  "games": [
+    {
+      "name": "Grand Theft Auto V",
+      "price": "40",
+      "image": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_1200x1600_Portrait Store Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg?h=480&quality=medium&resize=1&w=360",
+      "discrition": "The Grand Theft Auto V: Premium Edition includes the complete GTAV story, Grand Theft Auto Online and all existing gameplay upgrades and content. You’ll also get the Criminal Enterprise Starter Pack, the fastest way to jumpstart your criminal empire in GTA Online.",
+      "id": 2
+    },
+    {
+      "name": "the witcher",
+      "price": "30",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/Witcher_3_cover_art.jpg",
+      "discrition": "The game takes place in a fictional fantasy world based on Slavic mythology. Players control Geralt of Rivia, a monster slayer for hire known as a Witcher, and search for his adopted daughter, who is on the run from the otherworldly Wild Hunt. Players battle the game's many dangers with weapons and magic, interact with non-player characters, and complete quests to acquire experience points and gold, which are used to increase Geralt's abilities and purchase equipment. The game's story has three possible endings, determined by the player's choices at key points in the narrative. ",
+      "id": 3
+    },
+    {
+      "name": "Ghost runner",
+      "price": "40",
+      "image": "https://cdn1.epicgames.com/95d0b9561be1464cb43bd029e94cf526/offer/GR_Portrait_Offer_1200x1600-1200x1600-a7811e23904db375486535513d10412f.jpg?h=480&quality=medium&resize=1&w=360",
+      "discrition": "Ghostrunner offers a unique single-player experience: fast-paced, violent combat, and an original setting that blends science fiction with post-apocalyptic themes. It tells the story of a world that has already ended and its inhabitants who fight to survive.",
+      "id": 4
+    },
+    {
+      "name": "fc",
+      "price": "30",
+      "image": "https://cdn1.epicgames.com/offer/4750c68b2bfa4f43933b81cfd5cc510c/EGS_EASPORTSFC24StandardEdition_EACanada_S2_1200x1600-37aa3816ed46542836e1068060998810?h=480&quality=medium&resize=1&w=360",
+      "discrition": "EA SPORTS FC™ 24 welcomes you to The World’s Game: the most true-to-football experience ever with HyperMotionV, PlayStyles optimised by Opta, and an enhanced Frostbite™ Engine.",
+      "id": 5
+    },
+    {
+      "name": "Red Dead Redemption 2",
+      "price": "40",
+      "image": "https://cdn1.epicgames.com/epic/offer/RDR2PC1227_Epic Games_860x1148-860x1148-b4c2210ee0c3c3b843a8de399bfe7f5c.jpg?h=480&quality=medium&resize=1&w=360",
+      "discrition": "Winner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, Red Dead Redemption 2 is an epic tale of honor and loyalty at the dawn of the modern age. Includes Red Dead Redemption 2: Story Mode and Red Dead Online.",
+      "id": 6
+    },
+    {
+      "name": "Marvel's Guardians of the Galaxy",
+      "price": "44",
+      "image": "https://cdn1.epicgames.com/offer/2a09fb19b47f46dfb11ebd382f132a8f/EGS_MarvelsGuardiansoftheGalaxy_EidosMontral_S2_01_1200x1600-e8e868690d5e67692c7bf2c13aa84561?h=480&quality=medium&resize=1&w=360",
+      "discrition": "You are Star-Lord. The fate of the galaxy and the Guardians is in your hands. Time to show the universe what you’re made of. You got this. Probably.",
+      "id": 7
+    }
+  ]
+}

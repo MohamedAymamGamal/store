@@ -1,0 +1,70 @@
+h1, h2{
+  font-family: adventureregular;
+}
+p{
+  font-family: adventureregular;
+}
+.SEC1{
+  margin-top: 120px;
+  margin-bottom: 90px;
+}
+svg{
+  font-style:var(--color3) !important;
+}
+@media screen and (max-width:565px){
+  .img_sec1{
+    width: 100% !important;
+  }
+
+  .hh1{
+    font-size: 41px !important;
+  }
+  .p1{
+    font-size: 21px !important;
+    width: 153%;
+    margin-left: -30px;
+  }
+  .sl1 {
+    width: 100% !important;
+  }
+  .c1{
+    width: 100% !important;
+  }
+
+}
+@media screen and (max-width:365px){
+  .img_sec1{
+    width: 100% !important;
+  }
+
+  .hh1{
+    font-size: 41px !important;
+  }
+  .p1{
+    font-size: 21px !important;
+    width: 153%;
+    margin-left: -30px;
+  }
+  .sl1 {
+    width: 100% !important;
+  }
+  .c1{
+    width: 100% !important;
+  }
+
+}
+.head{
+  display: grid;
+  grid-template-columns: repeat(auto-fill,minmax(clamp(9.375rem,calc(7.7841rem + 6.3636vw),13.75rem),1fr));
+  gap: 1.2rem;
+  width: 100%;
+}
+.icon{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: var(--fontfamily1)
+}
+.nav1{
+  border: 30px solid #d5dfe4;
+}
